@@ -105,3 +105,10 @@ a {
     color-scheme: dark;
   }
 }
+
+.smaller-than-10{
+  color: blue;
+}
+.greater-than-10{
+  color: red
+}
